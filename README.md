@@ -1,5 +1,5 @@
 Spring Example
-
+java
 This minimal example shows how to use JavaFX (FXML) with the glorious Spring Framework (and Maven). Both frameworks have an entry point, which is Application.launch(...) for JavaFX and SpringApplication.run(...) for Spring. By creating the simple helper-class SpringFXMLLoaderFactory, we solve this problem.
 
 Showing The Primary Stage
